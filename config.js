@@ -14,31 +14,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //name
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
-global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
-global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
+global.vcardowner = ['919496646746'] //ganti nomer lu
+global.ownername = "cyberboy" //ganti nama lu
+global.developer = "Adhokshaji" //name
+global.socialm = "https://www.instagram.com/adhokshaji3.exe" //taroh sosialmedia lu kalo ga punya biarin aja
+global.location = "Kerala,KLM,Paravur" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
-global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
+global.owner = ['919496646746'] //ur number
+global.ownernomer = "919496646746" //ur number
+global.ownertag = '919496646746' //ur tag number
+global.premium = ['919496646746'] //ur premium number
+global.botname = 'lonuzz MD+' //ur bot name
+global.ownername = "Adhokshaji"
+global.dana = "919496646746"
+global.pulsa = "919496646746"
 global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
 global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
 global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.author = "Adhokshaji" //ur sticker watermark author
+global.wm = "C Y B E R B O Y" //ur watermark
 
 // Other
 global.sessionName = 'session'
